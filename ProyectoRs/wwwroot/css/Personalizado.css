@@ -1,0 +1,22 @@
+﻿#logo {
+    width: 250px;
+    margin: 2rem;
+}
+
+.seccion-bienvenida {
+    margin: 1rem 0 5rem 0;
+    color: white;
+}
+
+    .seccion-bienvenida p {
+        font-family: 'Times New Roman';
+        font-size: 30px;
+    }
+
+.cabecera {
+    font-weight: bold;
+}
+
+.habilidades ul {
+    list-style: none;
+}
